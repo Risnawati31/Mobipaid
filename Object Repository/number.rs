@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>number</name>
+   <tag></tag>
+   <elementGuidId>3a01a0c9-25fc-4279-881b-fb1084f2d3dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@class = 'class=&quot;form-control btn-log border-grey int_tel_input&quot;' and @data-intl-tel-input-id = '1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>29688fb1-68f1-4646-a958-820ea4bfcace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>class=&quot;form-control btn-log border-grey int_tel_input&quot;</value>
+      <webElementGuid>982c4a9f-14b8-499b-aae1-506cb879242d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-intl-tel-input-id</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3f9aac04-e883-4791-8cd9-a097569e9599</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
