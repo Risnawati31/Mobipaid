@@ -62,7 +62,6 @@ class Register {
 		WebUI.sendKeys(findTestObject('Object Repository/country'), 'Indonesia')
 		WebUI.setText(findTestObject('Object Repository/state'), 'Jakarta')
 		WebUI.takeFullPageScreenshot()
-		
 	}
 
 	@When("Finished Regis")
@@ -70,12 +69,10 @@ class Register {
 		WebUI.click(findTestObject('Object Repository/checkbox'))
 		WebUI.click(findTestObject('Object Repository/submit'))
 		WebUI.takeFullPageScreenshot()
-		
 	}
 
 	@Then("Succes Register")
 	def Succes_Register(){
-	WebUI.takeFullPageScreenshot()
-	
+		WebUI.takeFullPageScreenshot()
 	}
 }
